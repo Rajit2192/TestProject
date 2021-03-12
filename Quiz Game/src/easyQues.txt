@@ -1,0 +1,25 @@
+Q1--What will be the result of 2+3 ?
+(1) 5
+(2) 8
+(3) 6
+(4) 10
+Q2--What will be the result of 2+4 ?
+(1) 10
+(2) 6
+(3) 8
+(4) 5
+Q3--Recent Game Banned in India ?
+(1) Share It
+(2) Krofton
+(3) PUBG
+(4) Unknown Battle Ground
+Q4--Find Odd one out 2,4,6,7,8?
+(1) 4
+(2) 8
+(3) 2
+(4) 7
+Q5--Who is God of Cricket ?
+(1) Sachin
+(2) Don bradman
+(3) Virat kholi
+(4) Dhoni

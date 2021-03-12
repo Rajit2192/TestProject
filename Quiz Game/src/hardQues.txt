@@ -1,0 +1,25 @@
+Q1--What will be the result of 10%0 ?
+(1) not Difened 
+(2) 10
+(3) 0
+(4) 1
+Q2--What will be the result of 2^10 ?
+(1) 200
+(2) 1024
+(3) 1022
+(4) 1026
+Q3--Which team lifted first World Cup trophy ?
+(1) England
+(2) Austria 
+(3) West Indies
+(4) India
+Q4--How many seats are in Lok Sabha in parliament in India ?
+(1) 240
+(2) 245
+(3) 540
+(4) 543
+Q5--How many union territories in India ?
+(1) 8
+(2) 6
+(3) 28
+(4) 26
